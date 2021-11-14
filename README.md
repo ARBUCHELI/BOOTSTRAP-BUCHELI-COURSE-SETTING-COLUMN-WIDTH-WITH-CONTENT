@@ -24,3 +24,6 @@ Checkpoint 2 Passed
 
 Hint
 You must replace the "12" with "auto".
+  
+## Take a look at the live example here:
+https://bucheli-web-development-bootstrap-course-width-with-content.netlify.app/
